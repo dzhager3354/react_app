@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <span>Edited by dzhager3354</span>
       </header>
     </div>
   );
