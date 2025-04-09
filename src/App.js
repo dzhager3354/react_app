@@ -19,7 +19,7 @@ function App() {
           Learn React with dzhager3354
         </a>
         <span>Edited by dzhager3354</span>
-        <span>xddd</span>
+        <span>xd</span>
       </header>
     </div>
   );
