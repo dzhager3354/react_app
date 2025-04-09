@@ -28,6 +28,9 @@ jobs:
     - name: Install dependencies
       run: npm install
 
+    - name: Run linter
+      run: npx exlint src/App.js
+
     - name: Build
       run: npm run build
 
